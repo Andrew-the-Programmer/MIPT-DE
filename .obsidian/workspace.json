@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Шту",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,10 +217,11 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
+    "notes/176-mipt-differential-equations-lecture-12-03-25.md",
+    "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "MIPT-differential-equations-4semester.md",
     "notes/568-mipt-differential-equations-seminar-09-04-25.md",
     "MIPT-differential-equations-2025.md",
-    "notes/176-mipt-differential-equations-lecture-12-03-25.md",
     "DE/preamble.sty",
     "skim.py~",
     "DE/assets/imgs/3457454.png",
@@ -260,7 +262,6 @@
     "DE/notes/568-mipt-differential-equations-seminar-09-04-25.md",
     "DE/notes/566-mipt-differential-equations-lecture-19-03-25.md",
     "DE/notes/525-mipt-differential-equations-lecture-26-02-25.md",
-    "DE/notes/471-mipt-differential-equations-seminar-02-04-25.md",
-    "DE/notes/470-mipt-differential-equations-lecture-30-04-25.md"
+    "DE/notes/471-mipt-differential-equations-seminar-02-04-25.md"
   ]
 }
