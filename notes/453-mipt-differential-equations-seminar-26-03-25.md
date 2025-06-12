@@ -52,6 +52,7 @@ A = \Pmatrix{
 \Re \lambda_{1,2} > 0 \implies \textit{не устойчивое пр} \\
 \textit{Неустойчивый вырожденный узел} \\
 \textit{Собственный вектор} \\
+(A - \lambda E) h_1 = 0 \\
 h_1 = \Pmatrix{
 1 \\ 1
 } \\
