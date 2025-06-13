@@ -110,5 +110,5 @@ r_1 = \frac{x}{z + x^3} - ПИ \\
 $\Align{
 \frac{\d x}{x^2} = \frac{\d y}{2 x^3 - xy - z} = \frac{\d z}{xz - 2x^4} \\
 \d (xy) = \d z \\
-u_2
+u_2 = xy - z
 }$
