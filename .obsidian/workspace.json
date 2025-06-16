@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/339-mipt-differential-equations-lecture-16-04-25.md",
+                "file": "notes/470-mipt-differential-equations-lecture-30-04-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "339-mipt-differential-equations-lecture-16-04-25"
+              "title": "470-mipt-differential-equations-lecture-30-04-25"
             }
           },
           {
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,6 +218,8 @@
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
     "MIPT-differential-equations-4semester.md",
+    "notes/117-mipt-differential-equations-lecture-23-04-25.md",
+    "notes/339-mipt-differential-equations-lecture-16-04-25.md",
     "notes/879-mipt-differential-equations-lecture-09-04-25.md",
     "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
@@ -240,8 +243,6 @@
     "notes/974-mipt-differential-equations-seminar-05-03-25.md",
     "notes/775-mipt-differential-equations-seminar-26-02-25.md",
     "notes/680-mipt-differential-equations-seminar-19-02-25.md",
-    "notes/797-mipt-differential-equations-seminar-12-02-25.md",
-    "notes/267-mipt-differential-equations-lecture-07-05-25.md",
     "assets/imgs/26-03-25_15-46-21_828_26-03-25_15-46-21_352.png",
     "DE/preamble.sty",
     "skim.py~",
