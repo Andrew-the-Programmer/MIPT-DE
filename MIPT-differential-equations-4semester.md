@@ -7,8 +7,6 @@ tags: []
 
 # MIPT differential equations 2025
 
-$\zeta$
-
 # Lectures
 
 1. [[1738741597-mipt-differential-equations-lecture-05-02-25|05-02-25]]
