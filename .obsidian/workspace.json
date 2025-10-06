@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIPT-differential-equations-4semester.md",
-                "mode": "source",
+                "file": "notes/879-mipt-differential-equations-lecture-09-04-25.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIPT-differential-equations-4semester"
+              "title": "879-mipt-differential-equations-lecture-09-04-25"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,12 +218,12 @@
   },
   "active": "ad6a3be8240246f6",
   "lastOpenFiles": [
-    "notes/470-mipt-differential-equations-lecture-30-04-25.md",
     "MIPT-differential-equations-4semester.md",
+    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
+    "notes/470-mipt-differential-equations-lecture-30-04-25.md",
     "notes/117-mipt-differential-equations-lecture-23-04-25.md",
     "notes/339-mipt-differential-equations-lecture-16-04-25.md",
     "notes/879-mipt-differential-equations-lecture-09-04-25.md",
-    "notes/578-mipt-differential-equations-lecture-02-04-25.md",
     "notes/909-mipt-differential-equations-lecture-26-03-25.md",
     "notes/566-mipt-differential-equations-lecture-19-03-25.md",
     "notes/176-mipt-differential-equations-lecture-12-03-25.md",
